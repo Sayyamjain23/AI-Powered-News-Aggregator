@@ -4,7 +4,7 @@
 //   } = require("@google/generative-ai");
   
 //   // Initialize the Google Generative AI with your API key
-//   const apiKey = "AIzaSyCMTdTpRGcLdpfFKQOfKWz7Hxul52xCq_E";
+//   const apiKey = "Your API Key";
 //   const genAI = new GoogleGenerativeAI(apiKey);
   
 //   // Configure the model and generation settings
