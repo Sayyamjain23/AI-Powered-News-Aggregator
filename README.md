@@ -40,11 +40,6 @@ Summarizer
 
 ## Installation
 
-```bash
-git clone https://github.com/pavankumart18/News-Aggregator-and-Summarizer.git
-cd News-Aggregator-and-Summarizer
-##Terminal code
-
 To Run Frontend:
 cd client
 npm install
